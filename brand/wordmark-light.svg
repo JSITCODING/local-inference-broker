@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 120" role="img" aria-labelledby="title">
+  <title id="title">Local Inference Broker</title>
+  <g transform="translate(8 12)">
+    <rect width="96" height="96" rx="22" fill="#F3F5F6"/>
+    <path d="M18 28h18l12 20M18 48h30M18 68h18l12-20m0 0h30" fill="none" stroke="#101B24" stroke-width="7" stroke-linecap="square" stroke-linejoin="round"/>
+    <rect x="42" y="42" width="12" height="12" rx="2" fill="#E56632"/>
+  </g>
+  <text x="130" y="69" fill="#101B24" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="720" letter-spacing="-1.4">Local Inference Broker</text>
+  <text x="132" y="95" fill="#52606A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="650" letter-spacing="2.8">ROUTE LOCALLY · RETURN CLEARLY</text>
+</svg>

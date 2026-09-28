@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 430" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic Local Inference Broker terminal demonstration</title>
+  <desc id="desc">A deterministic summarize request returns provider metadata, output, latency, and character measurements.</desc>
+  <rect width="1120" height="430" rx="22" fill="#101B24"/>
+  <rect width="1120" height="52" rx="22" fill="#172631"/>
+  <rect y="30" width="1120" height="22" fill="#172631"/>
+  <circle cx="30" cy="26" r="7" fill="#F0783E"/><circle cx="54" cy="26" r="7" fill="#D7A94A"/><circle cx="78" cy="26" r="7" fill="#62A889"/>
+  <text x="560" y="32" text-anchor="middle" fill="#93A2AC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">synthetic demonstration</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">
+    <text x="34" y="92" fill="#7FC9B5">$</text><text x="58" y="92" fill="#F7F6F2">local-ai summarize --provider deterministic</text>
+    <text x="58" y="124" fill="#AEB9C0">"Routine work stays close. Larger tasks remain explicit."</text>
+    <text x="34" y="174" fill="#93A2AC">{</text>
+    <text x="58" y="208" fill="#7FC9B5">"status"</text><text x="160" y="208" fill="#AEB9C0">:</text><text x="181" y="208" fill="#F7F6F2">"ok",</text>
+    <text x="58" y="242" fill="#7FC9B5">"provider"</text><text x="181" y="242" fill="#AEB9C0">:</text><text x="202" y="242" fill="#F7F6F2">"deterministic",</text>
+    <text x="58" y="276" fill="#7FC9B5">"output"</text><text x="160" y="276" fill="#AEB9C0">:</text><text x="181" y="276" fill="#F7F6F2">"Routine work stays close. Larger tasks remain explicit.",</text>
+    <text x="58" y="310" fill="#7FC9B5">"metrics"</text><text x="170" y="310" fill="#AEB9C0">:</text><text x="191" y="310" fill="#F7F6F2">{ "latency_ms": 0, "input_characters": 55 },</text>
+    <text x="58" y="344" fill="#7FC9B5">"warnings"</text><text x="181" y="344" fill="#AEB9C0">:</text><text x="202" y="344" fill="#F7F6F2">["Deterministic output is intended for tests."]</text>
+    <text x="34" y="378" fill="#93A2AC">}</text>
+  </g>
+  <text x="1084" y="402" text-anchor="end" fill="#65737C" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" letter-spacing="2">SYNTHETIC OUTPUT · ILLUSTRATIVE LATENCY</text>
+</svg>
